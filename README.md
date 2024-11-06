@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Vacant0mens
 
+- I love to tinker and build stuff. 🤓
+
 - 💞️ I’m looking to collaborate on Python and PowerShell projects
 
 <!---
